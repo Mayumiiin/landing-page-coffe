@@ -4,11 +4,15 @@
 
 \## Descrição
 
+
+
 Landing page responsiva para uma empresa de café artesanal, desenvolvida com HTML e CSS.
 
 
 
 \## Tecnologias Utilizadas
+
+
 
 \- HTML5
 
@@ -19,6 +23,8 @@ Landing page responsiva para uma empresa de café artesanal, desenvolvida com HT
 
 
 \## Funcionalidades
+
+
 
 \- Design responsivo
 
@@ -32,6 +38,8 @@ Landing page responsiva para uma empresa de café artesanal, desenvolvida com HT
 
 \## Como Executar
 
+
+
 1\. Faça o download do arquivo HTML
 
 2\. Abra o arquivo em qualquer navegador
@@ -41,6 +49,8 @@ Landing page responsiva para uma empresa de café artesanal, desenvolvida com HT
 
 
 \## Estrutura
+
+
 
 \- \*\*Header\*\*: Navegação fixa
 
@@ -59,6 +69,8 @@ Landing page responsiva para uma empresa de café artesanal, desenvolvida com HT
 
 
 \## Responsividade
+
+
 
 \- Adaptado para desktop e mobile
 
