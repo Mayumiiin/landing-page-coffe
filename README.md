@@ -1,8 +1,8 @@
-\# Landing Page - CaféPuro
+# Landing Page - CaféPuro
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,69 +10,69 @@ Landing page responsiva para uma empresa de café artesanal, desenvolvida com HT
 
 
 
-\## Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 
 
-\- HTML5
+- HTML5
 
-\- CSS3
+- CSS3
 
-\- JavaScript (navegação suave)
-
-
-
-\## Funcionalidades
+- JavaScript (navegação suave)
 
 
 
-\- Design responsivo
-
-\- Navegação entre seções
-
-\- Formulário de contato
-
-\- Layout moderno e limpo
+## Funcionalidades
 
 
 
-\## Como Executar
+- Design responsivo
+
+- Navegação entre seções
+
+- Formulário de contato
+
+- Layout moderno e limpo
 
 
 
-1\. Faça o download do arquivo HTML
-
-2\. Abra o arquivo em qualquer navegador
-
-3\. Não requer instalação de dependências
+## Como Executar
 
 
 
-\## Estrutura
+1. Faça o download do arquivo HTML
+
+2. Abra o arquivo em qualquer navegador
+
+3. Não requer instalação de dependências
 
 
 
-\- \*\*Header\*\*: Navegação fixa
-
-\- \*\*Hero\*\*: Seção principal com call-to-action
-
-\- \*\*Qualidades\*\*: Benefícios do produto
-
-\- \*\*Produtos\*\*: Catálogo com preços
-
-\- \*\*Sobre\*\*: História da empresa
-
-\- \*\*Contato\*\*: Formulário de contato
-
-\- \*\*Footer\*\*: Informações e redes sociais
+## Estrutura
 
 
 
-\## Responsividade
+- **Header**: Navegação fixa
+
+- **Hero**: Seção principal com call-to-action
+
+- **Qualidades**: Benefícios do produto
+
+- **Produtos**: Catálogo com preços
+
+- **Sobre**: História da empresa
+
+- **Contato**: Formulário de contato
+
+- **Footer**: Informações e redes sociais
 
 
 
-\- Adaptado para desktop e mobile
+## Responsividade
+
+
+
+- Adaptado para desktop e mobile
 
 \- Breakpoint em 768px
 
